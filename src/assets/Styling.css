@@ -1,0 +1,322 @@
+.card {
+  min-height: 100%;
+  padding: 10px;
+  transition: 0.5s ease-out;
+}
+
+.toolbar {
+  margin-top: 16px;
+}
+
+.selects_style {
+  width: 250px;
+}
+
+.toolbarContent {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.v-data-table-header {
+  background-color: #525252 !important;
+
+}
+
+.listItem {
+  background-color: #71c9f0;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.tablePadding {
+  margin-top: 30px;
+}
+
+.heading-font {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+.subheading-font {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+.dashboardCard {
+  margin-top: 50px;
+}
+
+.dataUsageCard {
+  margin-top: 60px;
+}
+
+.configurationCard {
+  margin-top: 16px;
+}
+
+.font-size {
+  font-size: x-large;
+}
+
+.theme--light.v-data-table>.v-data-table__wrapper>table>thead>tr>th {
+  color: white !important;
+}
+
+.sub-headers {
+  font-size: 20px
+}
+
+.router-center-align-wan-lan {
+  margin-top: -12px;
+  font-size: 18px;
+
+}
+
+.router-center-align-wan-lan-icon {
+  margin-top: -20px;
+}
+
+.dialog-body-text {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.sortable tr {
+  cursor: pointer;
+}
+
+.fixed-bar {
+  margin-left: 1px;
+  /* margin-top: 1%;
+  margin-right:1px ; */
+
+}
+
+.radioA {
+  vertical-align: middle;
+}
+
+.dtwidth {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+.text_ellipsis {
+  white-space: nowrap;
+  max-width: 10vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+.searchPadding {
+  margin-top: 5px;
+
+}
+
+.tablePadding {
+  margin-top: 10px;
+}
+
+.componentSpacing {
+  margin-left: 10px;
+}
+.backgroundImg {
+  background: url('../assets/newWallpaper.jpg') no-repeat center center fixed;
+  ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* .v-data-table-header th{
+  padding-left: 2px;
+} */
+/* th {
+  padding-left: 5px;
+} */
+/* .v-data-table-header th {
+  white-space: nowrap;
+  padding-top: 0px;
+  padding-bottom: 0px;
+ 
+  padding-left: 5px;
+} */
+/* .v-data-table > .v-data-table__wrapper > table > thead > tr > th {
+  padding: 0 16px;
+      padding-top: 0px;
+      padding-right: 10px;
+      padding-bottom: 0px;
+      padding-left: 10px;
+  transition: height .2s cubic-bezier(.4,0,.6,1);
+} */
+.v-data-table>.v-data-table__wrapper>table>tbody>tr>td,
+.v-data-table>.v-data-table__wrapper>table>tbody>tr>th,
+.v-data-table>.v-data-table__wrapper>table>tfoot>tr>td,
+.v-data-table>.v-data-table__wrapper>table>tfoot>tr>th,
+.v-data-table>.v-data-table__wrapper>table>thead>tr>td,
+.v-data-table>.v-data-table__wrapper>table>thead>tr>th {
+  padding: 0 5px !important;
+  transition: height .2s cubic-bezier(.4, 0, .6, 1);
+}
+
+/* .v-data-table > .v-data-table__wrapper > table > thead > tr > th {
+  padding: 2px;
+  
+} */
+.stepperPadding {
+  padding-top: 4px;
+}
+
+.config-bar {
+  margin-right: 100px;
+  margin-left: 10px;
+  margin-top: 10px;
+
+}
+
+.tabsBg {
+  background-color: #EDEDED;
+}
+
+.dialogSmall {
+  width: 500px;
+}
+
+.dailogLarge {
+  max-width: 900px;
+}
+
+.dailogDelete {
+  max-width: 400px;
+}
+
+.dailogPadding {
+  padding-top: 15px;
+}
+
+.button-corner {
+  position: relative;
+  bottom: 12px;
+
+}
+
+.dashboard-card {
+  height: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-right: 2%;
+  margin-left: 2%;
+
+}
+
+.listItem {
+  background-color: #71c9f0;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+/* .backgroundImg {
+  background: url('../assets/City-1.jpg') no-repeat center center fixed;
+  ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
+
+/* .v-data-table {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+  }  */
+.v-data-table-header {
+  background-color: #525252 !important;
+
+}
+
+.dashboard-font {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+.app-background {
+  background-color: #D9D9D9;
+}
+
+.dashboard-routerCount {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+}
+
+.dashboard-router {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+.toolbar-font {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+}
+
+.dashboard-submenu {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+/* .v-select.v-text-field input {
+  color: blue !important;
+} */
+.theme--light.v-data-table>.v-data-table__wrapper>table>thead>tr>th {
+  color: white !important;
+}
+
+.theme--light.v-text-field>.v-input__control>.v-input__slot {
+  background: white !important;
+  color: gray !important;
+
+}
+
+.button-corner {
+  position: relative;
+  bottom: 8px;
+
+}
+
+.popupButton {
+  margin-bottom: 4px;
+}
+
+.textfieldsspacing {
+  margin-top: 2px;
+  background-color: white !important;
+}
+
+.popDailog {
+  background-color: #499219
+}
+
+.popup-dialog {
+  background-color: #09a098
+}
+
+.fontsize {
+  font-size: 200;
+
+}
+
+@media only screen and (min-width : 992px) {
+  .config-bar {
+    margin-right: 0.5%;
+    margin-left: 0.5%;
+  }
+}
